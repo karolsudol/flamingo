@@ -60,6 +60,14 @@ Peer to peer NFT credit market and yield generating - liquidity scaling protocol
 
 ## credit history
 
+account holders build credit history based on their loan repayments that allows for uncolaterised loan issuance
+
+## contracts
+
+- `EnglishAuction`
+- `Vault.sol`
+- `LPToken.sol`
+
 ## deployed
 
 - `smart-contract` is deployed and verified on [TBD]()
