@@ -51,11 +51,14 @@ Peer to peer NFT credit market and yield generating - liquidity scaling protocol
 
 ## Example
 
-1. Alice and Bob both sign a Promissory Note that gives Bob's 100 USDC to Alice for a period of 90 days, while simultaneously locking Alice's NFT into an escrow contract. If, after the 90 day period, Alice does not return Bob's 100 USDC (Principal) plus 10 USD additional (Interest), Alice's NFT will be released into Bob's ownership.
+1.  - `Alice and Bob` both sign a Promissory Note that gives Bob's 100 USDC to Alice for a period of 90 days, while simultaneously locking Alice's NFT into an escrow contract.
+    - If, after the 90 day period, Alice does not return Bob's 100 USDC (Principal) plus 10 USD additional (Interest), Alice's NFT will be released into Bob's ownership.
 
-2. - `Alice` owns a property and seeks a loan against its deed in form of NFT.
-   - `Capital_1` and `Capital_2` own 100.000 USDC each and are looking for a yield generating asset.
-   - `Capital_3` and `Capital_4` own 100.000 USDC each and are looking for buying assets under their fair market value
+2.  - `Alice` owns a property and seeks a loan against its deed in form of NFT.
+    - `Capital_1` and `Capital_2` own 100.000 USDC each and are looking for a yield generating asset.
+    - `Capital_3` and `Capital_4` own 100.000 USDC each and are looking for buying assets under their fair market value
+
+## credit history
 
 ## deployed
 
