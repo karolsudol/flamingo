@@ -9,10 +9,14 @@
 
 Credit Market for real asset backed NFTs and yield generating - liquidity scaling protocol.
 
+Primary product is a capital market that enables secondary market liquidity for NFT-backed notes.
+
+Participants can deposit capital in order to earn yield from diversified portfolios of NFT-backed notes.
+
 # If you hold:
 
-- `NFT` -> you can borrow cash against it on a open market hence best price
-- `CASH`-> you can generate a yield, and liqudate your loan at any time
+- `NFT` -> you can borrow cash against it on a open market hence best price is gurarnteed
+- `CASH`-> you can generate a yield with an option of liqudating the loan at any time
 - `CASH`-> you can purchase an assets at the discount via underperforming loan or a liquidated asset
 
 # Incetives
@@ -21,14 +25,15 @@ Credit Market for real asset backed NFTs and yield generating - liquidity scalin
 - `Depositors` can exit positions at any time, and are not left with a toxic asset
 - `Allocators` large capital allocators who invest in distressed asset can snipe assets during market downtrends
 
-## Price Discovery
+# Price Discovery
 
-- `English Auction` provides most efficient mechanism of identifying NFT backed assets and their loan value
-- `Gradual Dutch Auction`enables the efficient sale of a distressed assets
+- `English Auction` identifies NFT backed assets and their loan value
+- `Gradual Dutch Auction` enables fire sale of a distressed assets
+- `Credit Auctions`
 
 # Example
 
-- you have just bought an appartment for $200k
+- you bought an appartment for $200k
 - and you have an opportunity to buy another, next door, for a market discount rate of 20%
 - you are convinced that you can rent it out for 2k a mnoth
 - you do not have cash
@@ -51,19 +56,7 @@ d assets and asset backed loans
 
 ## Secondary Markets
 
-- `note` representing a loan can be freely traded by both parties in any secondary markets during its lifecycle
-- which sale results in protocol updating assets owners if sale occurs
-
-## Distressed Asst Loan Auction
-
-- in case of loan default either asset or asset backed loan can be traded on `Dutch Auction` sale by a lender
-- `Capital Allocators` participate in these events providng liquidity to both assets and loans
-
-## Options
-
-- `Capital Allocators` can bid on a right to buy asset on the specified fuure in a form of an option
-- `insurance` as such is provided to `lenders`
-- `options` are traded in `Dutch Auction`
+- `note` representing a loan can be freely traded by both parties in any secondary markets during its lifecycle, which sale results in protocol updating assets owners if sale occurs
 
 ## Example
 
