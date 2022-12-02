@@ -7,18 +7,34 @@
 </p>
 <br/>
 
-Peer to peer NFT credit market and yield generating - liquidity scaling protocol.
+Credit Market for real asset backed NFTs and yield generating - liquidity scaling protocol.
 
-## Participants as Capital
+# If you hold:
 
-- `Borrowers` find best market price against their ERC721 collateral
-- `Depositors` ERC20 token holders who want to generate passive yield
-- `Allocators` large capital holders who invest in distressed assets and asset backed loans
+- `NFT` -> you can borrow cash against it on a open market hence best price
+- `CASH`-> you can generate a yield, and liqudate your loan at any time
+- `CASH`-> you can purchase an assets at the discount via underperforming loan or a liquidated asset
+
+# Incetives
+
+- `Borrowers` access cash quickly and find best market price for your collateral
+- `Depositors` can exit positions at any time, and are not left with a toxic asset
+- `Allocators` large capital allocators who invest in distressed asset can snipe assets during market downtrends
 
 ## Price Discovery
 
-- `English Auction` provides most efficient mechanism of identifying non liquid asset backed loan price
-- `Gradual Dutch Auction` with exponential price decay enables the efficient sale of a distressed assets
+- `English Auction` provides most efficient mechanism of identifying NFT backed assets and their loan value
+- `Gradual Dutch Auction`enables the efficient sale of a distressed assets
+
+# Example
+
+- you have just bought an appartment for $200k
+- and you have an opportunity to buy another, next door, for a market discount rate of 20%
+- you are convinced that you can rent it out for 2k a mnoth
+- you do not have cash
+-
+
+d assets and asset backed loans
 
 ## Loan Auction
 
